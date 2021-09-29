@@ -1,6 +1,6 @@
 # BooksApp
 
-<h2> Features </h2>
+# Features
 - Firebase Realtime Database
 - Firebase Authentication
 - Firebase Analytics
